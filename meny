@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+  <head>
+   <style>
+    h2 {
+      font-size: 20px;
+      text-align: center;
+      border: 2px solid black;
+      background-color: hotpink;
+      color: black;
+    }
+    
+   </style>
+  </head>
+  <body>
+  
+  <h2>Jazuchular</h2>
+   <ul style="list-style-image:url('https://img.icons8.com/color/24/hand-with-pen.png')">
+     <li><a href="https://www.wikidata.org/wiki/Q426378">Toktogul Satylganov</a></li>
+     <li><a href="https://en.wikipedia.org/wiki/Togolok_Moldo">Togolok Moldo</a></li>
+     <li><a href="https://www.advantour.com/silkroad/kyrgyzstan/balasagyn-burana-tower.htm"></a></li>
+     <li><a href="https://en.wikipedia.org/wiki/B%C3%BCb%C3%BCsara_Beyshenalieva">Bubusara</a></li>
+     <li><a href="https://en.wikipedia.org/wiki/Abdukadyr
+     _Urazbekov">Abdykadyr Orozbek</a></li>
+   </ul>
+  </body>
